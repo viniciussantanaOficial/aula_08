@@ -1,0 +1,51 @@
+body{
+    color: white;
+    margin: 1cm;
+}
+
+header{
+
+    margin-top: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 40px;
+    color: black;
+}
+.main{
+
+    color: gray;
+}
+
+.lema{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+
+.autor{
+
+
+    color: black;
+    text-align: right;
+
+    
+    
+}
+
+.joinha-do-favelado{
+
+    width: 10%;
+    height: 100%;
+}
+.donizete{
+
+    padding: 10px;
+
+}
